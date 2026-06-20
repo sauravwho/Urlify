@@ -33,7 +33,7 @@ Urlify is a Spring Boot application designed to provide URL shortening services.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/sauravwho/Urlify.git>
+    git clone https://github.com/sauravwho/Urlify.git
     cd Urlify
     ```
 2.  **Configure PostgreSQL:**
