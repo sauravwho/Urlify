@@ -25,7 +25,7 @@ Urlify is a Spring Boot application designed to provide URL shortening services.
 
 ### Prerequisites
 
-*   Java Development Kit (JDK) 25
+*   Java Development Kit (JDK) version 25
 *   Maven
 *   PostgreSQL database instance
 
